@@ -1,7 +1,12 @@
+package com.uzduotis2;
+
 import java.util.Scanner;
 
+/**
+ * Created by Svecias on 3/6/2017.
+ */
 public class Uzduotis2 {
-    public static void main(String[] args) {
+    public Uzduotis2() {
         System.out.print("Iveskite 2 skaicius");
         Scanner scanner = new Scanner(System.in);
         int sk1 = scanner.nextInt();

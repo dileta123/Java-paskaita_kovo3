@@ -1,8 +1,12 @@
+package com.uzduotis4;
+
 import java.util.Scanner;
 
-public class uzduotis4 {
-
-    public static void main(String[] args) {
+/**
+ * Created by Svecias on 3/6/2017.
+ */
+public class Uzduotis4 {
+    public Uzduotis4() {
         System.out.print("Iveskite savo svori kilogramais");
         Scanner skaneris = new Scanner(System.in);
         double svoris = skaneris.nextDouble();
