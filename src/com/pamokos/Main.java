@@ -40,7 +40,7 @@ public class Main {
                 Uzduotis6 uzduotis6 = new Uzduotis6();
         Uzduotis7 uzduotis7 = new Uzduotis7();
         Uzduotis8 uzduotis8 = new Uzduotis8();
-        //Uzduotis9 uzduotis9 = new Uzduotis9(5);
+       Uzduotis9 uzduotis9 = new Uzduotis9(5);
         Uzduotis9a uzduotis9 = new Uzduotis9a();
         uzduotis9.nuskaitymas(7);
         uzduotis9.skaiciavimas();
